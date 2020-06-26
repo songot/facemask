@@ -1,2 +1,2 @@
 # facemask
-Projecy for image crawling
+Project for image crawling

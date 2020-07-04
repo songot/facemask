@@ -1,4 +1,1 @@
-scrot
-python3-tk
-python3-dev
-x11-xserver-utils
+
